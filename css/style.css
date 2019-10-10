@@ -724,3 +724,9 @@ hr {
   background-color: #2a86e2 !important;
   color: white !important;
 }
+p{
+  text-align:justify;
+}
+.is-6{
+  text-align:center;
+}
